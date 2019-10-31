@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-test-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-test-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-mobile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-noawt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-test-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jogl-all-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/joal-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JoglHelloWorld/jogamp-all-platforms/jar/jocl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jogamp-all-platforms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JoglHelloWorld/jogamp-all-platforms/._joal-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JoglHelloWorld/jogamp-all-platforms/._jocl-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JoglHelloWorld/jogamp-all-platforms/._gluegen-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JoglHelloWorld/jogamp-all-platforms/._jogl-java-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
